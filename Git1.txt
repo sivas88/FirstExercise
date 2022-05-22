@@ -6,3 +6,8 @@ Author : Siva
 2) Select Repository
 3) Add Files (Drag & Drop)
 4) click Commit
+ 
+ Creating Branch
+ 1) Using create Branch Name
+ 2) Edit in Branch Changes
+ 
