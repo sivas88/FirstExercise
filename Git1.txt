@@ -4,3 +4,5 @@ Author : Siva
 
 1) Create Repository, Click readme
 2) Select Repository
+3) Add Files (Drag & Drop)
+4) click Commit
